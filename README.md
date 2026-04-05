@@ -8,7 +8,7 @@ interactive **Streamlit web application**.
 - YOLOv8-based object localization (optional preprocessing)
 - ResNet18 (ImageNet pretrained) for deep feature extraction
 - Feature-level anomaly scoring using distance-based metrics
-- Patch-wise feature aggregation for fine-grained anomaly localization
+- Patch-wise feature aggregation for fine grained anomaly localization
 - ROC-AUC evaluation for quantitative performance analysis
 
 ## Deployment
